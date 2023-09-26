@@ -1,0 +1,144 @@
+body {
+    height: 100vh;
+    background-color: black;
+  }
+  
+.cwrapper {
+    height: 628px;
+    width: 480px;
+    background-color: #FFE164;
+    margin-left: 500px;
+    border-radius: 15px;
+    position: absolute;
+}
+
+.cbody {
+    height: 95%;
+    width: 95%;
+    background-image: linear-gradient(to top right, #EE4A30, #F79E3C, #F38C43);
+    margin-left: 12px;
+    margin-top: 15px;
+    border: 1px solid black;
+    border-radius: 10px;
+    position: absolute;
+}
+
+.cbody img {
+    width: 400px;
+    height: auto;
+    position: absolute;
+    right: 25px;
+    top: 35px;
+}
+
+h3 {
+    background-image: linear-gradient(#CCCBCB, #FEFEFE, #C2C1C0);
+    color: #595A5C;
+    text-align: center;
+    width: 65px;
+    height: 20px;
+    border-radius: 8px;
+    position: relative;
+    right: 10px;
+    bottom: 12px;
+}
+
+
+h2 {
+    position: relative;
+    top: -9%;
+    left: 70px;
+    z-index: 0;
+}
+
+aside {
+    position: absolute;
+    left: 287px;
+    top: -15px;
+    width: auto;
+}
+
+p {
+    font-size: small;
+    position: absolute;
+    z-index: 1;
+    margin-top: 225px;
+    margin-left: 100px;
+}
+
+.type img {
+    width: 28px;
+    height: auto;
+    position: absolute;
+    right: 12px;
+    top: 3px;
+}
+
+.ab1 {
+    width: 465px;
+    height: auto;
+    position: relative;
+    top: 275px;
+    left: -35px;
+    text-align: center;
+}
+
+.ab1 img {
+    width: 24px;
+    height: auto;
+    position: absolute;
+    top: -10%;
+    left: 45px
+}
+
+.ab2 {
+    width: 465px;
+    height: auto;
+    position: relative;
+    top: 275px;
+    left: -35px;
+    text-align: center;
+}
+
+.ab2 img {
+    width: 24px;
+    height: auto;
+    position: absolute;
+    top: -10%;
+    left: 97px;
+}
+
+.typeW img {
+    width: 17px;
+    height: auto;
+    position: relative;
+    border-radius: 25px;
+    background-color: white;
+    top: 78px;
+    left: 19%;
+}
+
+.typeS img {
+    width: 17px;
+    height: auto;
+    position: absolute;
+    top: 502px;
+    left: 81%;
+    border-radius: 25px;
+    background-color: white;
+}
+
+.ilnumb {
+    position: absolute;
+    left: -75px;
+    top: 315px;
+    width: 395px;
+    font-size: small;
+}
+
+footer {
+    position: absolute;
+    top: 95%;
+    left: 34px;
+    font-size: 10px;
+}
